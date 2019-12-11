@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:meals_app/screens/filters_screen.dart';
+import './screens/tabs_screen.dart';
 import './screens/categories_screen.dart';
 import './screens/category_meals_screen.dart';
 import './screens/meal_detail_screen.dart';
@@ -31,10 +33,20 @@ class MyApp extends StatelessWidget {
       // home: CategoriesScreen(),
       initialRoute: '/',
       routes: {
-        '/': (ctx) => CategoriesScreen(),
+        '/': (ctx) => TabsScreen(),
         CategoryMealsScreen.routeName:(ctx) => CategoryMealsScreen(),
         MealDetailScreen.routeName:(ctx) => MealDetailScreen(),
+        FiltersScreen.routeName:(ctx) => FiltersScreen()
         },
+        onGenerateRoute: (settings) {
+          print(settings.arguments);
+          return MaterialPageRoute(builder: (ctx) => CategoriesScreen());
+        },
+        // A fallback when flutter fails to build a screen with an unknows route. Prevents an error being thrown
+        onUnknownRoute: (settings) {
+          print(settings.arguments);
+          return MaterialPageRoute(builder: (ctx) => CategoriesScreen());
+        }, 
     );
   }
 }
