@@ -9,7 +9,6 @@ class MealItem extends StatelessWidget {
   final int duration;
   final Complexity complexity;
   final Affordability affordability;
-  final Function removeItem;
 
   MealItem(
       {@required this.id,
@@ -17,14 +16,13 @@ class MealItem extends StatelessWidget {
       @required this.imageUrl,
       @required this.duration,
       @required this.complexity,
-      @required this.affordability,
-      @required this.removeItem});
+      @required this.affordability});
 
   void selectMeal(BuildContext ctx) {
     //If the pop() method passes any data back, that data is returned in the .then()
     Navigator.of(ctx).pushNamed(MealDetailScreen.routeName, arguments: id).then((result) {
       if(result != null){
-        removeItem(result);
+        // removeItem(result);
       }
     });
   }

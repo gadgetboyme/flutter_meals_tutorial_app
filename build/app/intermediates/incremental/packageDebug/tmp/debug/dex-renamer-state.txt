@@ -1,4 +1,4 @@
-#Thu Dec 12 09:18:16 GMT 2019
+#Mon Dec 16 22:11:21 GMT 2019
 base.0=/Users/adrianmullally/Documents/Training/flutter/meals_app/build/app/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

@@ -5,6 +5,29 @@ INJECTED from /Users/adrianmullally/Documents/Training/flutter/meals_app/android
 INJECTED from /Users/adrianmullally/Documents/Training/flutter/meals_app/android/app/src/main/AndroidManifest.xml:1:1-33:12
 INJECTED from /Users/adrianmullally/Documents/Training/flutter/meals_app/android/app/src/main/AndroidManifest.xml:1:1-33:12
 MERGED from /Users/adrianmullally/Documents/Training/flutter/meals_app/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/069126898e1cf66dcf4d04fa193701f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/90f24b819676084a0d06550f72f2ee10/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2262894450802c7904b748da0afc2528/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/be4f2495ee2eddecbb71bd318bfa2878/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ca3f54521154d84e3f82ad4328011e86/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/46b2f4bcd467e81c016df02693de456d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/cdee4ebf3a02c8e34dec0cd459d2f8b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a8c998cf057baf0c1a49cbc4898cfc98/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/497af58adfd519dc9e8958535abb9197/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/24bc37c098b8721efedde700c7864f21/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/be4a51010dee680204b01aac7a9f1ee6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/aae3831fbcd5799eb02a4708733c67af/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2fbbf9fd975edd12a84acd57cb36fb48/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ce6192fc9c2aae0d2ea01c2755962f78/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ee041b400615c25817eb5dc8b7fc08e8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/cdea4a29f9ea84d3ec3e8542c7fb336d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c1dba34660db81d77ba49bc95a60e661/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/57486d38b0642c3fca8c61e0a7dc5eb7/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b47d1d4ad7ee5cbf728813be5fbc7a89/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e97a549a16224a5505c10f0947f89ab0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/fe07c8817b64a09d556883d406cc887c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e0e684615b15e0d47af179cca98a3e17/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7ad089051a438bef8ca8f26f58ab0f64/AndroidManifest.xml:17:1-22:12
 INJECTED from /Users/adrianmullally/Documents/Training/flutter/meals_app/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /Users/adrianmullally/Documents/Training/flutter/meals_app/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /Users/adrianmullally/Documents/Training/flutter/meals_app/android/app/src/debug/AndroidManifest.xml:1:1-7:12
@@ -24,6 +47,12 @@ INJECTED from /Users/adrianmullally/Documents/Training/flutter/meals_app/android
 		ADDED from /Users/adrianmullally/Documents/Training/flutter/meals_app/android/app/src/main/AndroidManifest.xml:1:11-69
 application
 ADDED from /Users/adrianmullally/Documents/Training/flutter/meals_app/android/app/src/main/AndroidManifest.xml:9:5-32:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/aae3831fbcd5799eb02a4708733c67af/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/aae3831fbcd5799eb02a4708733c67af/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/57486d38b0642c3fca8c61e0a7dc5eb7/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/57486d38b0642c3fca8c61e0a7dc5eb7/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/aae3831fbcd5799eb02a4708733c67af/AndroidManifest.xml:22:18-91
 	android:label
 		ADDED from /Users/adrianmullally/Documents/Training/flutter/meals_app/android/app/src/main/AndroidManifest.xml:11:9-34
 	android:icon
@@ -64,6 +93,52 @@ uses-sdk
 INJECTED from /Users/adrianmullally/Documents/Training/flutter/meals_app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/adrianmullally/Documents/Training/flutter/meals_app/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/adrianmullally/Documents/Training/flutter/meals_app/android/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/069126898e1cf66dcf4d04fa193701f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/069126898e1cf66dcf4d04fa193701f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/90f24b819676084a0d06550f72f2ee10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/90f24b819676084a0d06550f72f2ee10/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2262894450802c7904b748da0afc2528/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/2262894450802c7904b748da0afc2528/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/be4f2495ee2eddecbb71bd318bfa2878/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/be4f2495ee2eddecbb71bd318bfa2878/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ca3f54521154d84e3f82ad4328011e86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/ca3f54521154d84e3f82ad4328011e86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/46b2f4bcd467e81c016df02693de456d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/46b2f4bcd467e81c016df02693de456d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/cdee4ebf3a02c8e34dec0cd459d2f8b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/cdee4ebf3a02c8e34dec0cd459d2f8b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a8c998cf057baf0c1a49cbc4898cfc98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a8c998cf057baf0c1a49cbc4898cfc98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/497af58adfd519dc9e8958535abb9197/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/497af58adfd519dc9e8958535abb9197/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/24bc37c098b8721efedde700c7864f21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/24bc37c098b8721efedde700c7864f21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/be4a51010dee680204b01aac7a9f1ee6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/be4a51010dee680204b01aac7a9f1ee6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/aae3831fbcd5799eb02a4708733c67af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/aae3831fbcd5799eb02a4708733c67af/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2fbbf9fd975edd12a84acd57cb36fb48/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2fbbf9fd975edd12a84acd57cb36fb48/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ce6192fc9c2aae0d2ea01c2755962f78/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ce6192fc9c2aae0d2ea01c2755962f78/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ee041b400615c25817eb5dc8b7fc08e8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/ee041b400615c25817eb5dc8b7fc08e8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/cdea4a29f9ea84d3ec3e8542c7fb336d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/cdea4a29f9ea84d3ec3e8542c7fb336d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c1dba34660db81d77ba49bc95a60e661/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/c1dba34660db81d77ba49bc95a60e661/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/57486d38b0642c3fca8c61e0a7dc5eb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/57486d38b0642c3fca8c61e0a7dc5eb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b47d1d4ad7ee5cbf728813be5fbc7a89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b47d1d4ad7ee5cbf728813be5fbc7a89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e97a549a16224a5505c10f0947f89ab0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e97a549a16224a5505c10f0947f89ab0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/fe07c8817b64a09d556883d406cc887c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/fe07c8817b64a09d556883d406cc887c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e0e684615b15e0d47af179cca98a3e17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/e0e684615b15e0d47af179cca98a3e17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7ad089051a438bef8ca8f26f58ab0f64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/adrianmullally/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/7ad089051a438bef8ca8f26f58ab0f64/AndroidManifest.xml:20:5-44
 INJECTED from /Users/adrianmullally/Documents/Training/flutter/meals_app/android/app/src/debug/AndroidManifest.xml
 INJECTED from /Users/adrianmullally/Documents/Training/flutter/meals_app/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
